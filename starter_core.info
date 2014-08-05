@@ -1,5 +1,5 @@
 name = Starter: Core
-description = Starter core modules.
+description = Starter Core.
 core = 7.x
 package = Starter
 version = 7.x-1.0
