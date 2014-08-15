@@ -6,6 +6,7 @@ version = 7.x-1.0
 project = starter_core
 dependencies[] = ctools
 dependencies[] = entity
+dependencies[] = entity_cache
 dependencies[] = jquery_update
 dependencies[] = libraries
 dependencies[] = strongarm
