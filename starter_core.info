@@ -10,7 +10,6 @@ dependencies[] = features
 dependencies[] = jquery_update
 dependencies[] = libraries
 dependencies[] = node
-dependencies[] = starter_admin
 dependencies[] = strongarm
 dependencies[] = token
 features[ctools][] = strongarm:strongarm:1
